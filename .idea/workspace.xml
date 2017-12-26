@@ -7,70 +7,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="259a4d06-1646-4bc7-ad16-608bc2ef4827" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/lamb/Test1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/lamb/Test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/servlet/TestServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/classes/com/myright/core/rest/hybrid/servlet/TestServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/classes/jdbc.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/gson-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-cloud-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-common-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-mq-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-security-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/index2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/template1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test2_router.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test3_http.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test4_jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test5_input.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test6_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test6_select2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/angular-ui-router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/06.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/07.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/08.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/09.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/com.springsource.org.apache.commons.httpclient-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/commons-codec-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/Socket客户端.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/WSDL描述文件.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/WebService描述语言WSDL详解.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/jquery-1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/js/vue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/上课笔记.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/classes/com/myright/core/persist/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/persist/target/myright-core-persist-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/classes/com/myright/core/pojo/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/pojo/target/myright-core-pojo-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/classes/com/myright/core/service/user/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/service/target/myright-core-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/classes/com/myright/infra/cloud/CloudUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/target/myright-infra-cloud-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/classes/com/myright/infra/common/DateUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/classes/com/myright/infra/common/JsonUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-common/target/myright-infra-common-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/classes/com/myright/infra/mq/MQUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-mq/target/myright-infra-mq-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/classes/com/myright/infra/security/SecurityUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-infra/myright-infra-security/target/myright-infra-security-1.0-SNAPSHOT.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" afterPath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,11 +78,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="06.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="06.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myright-core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -214,18 +204,30 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="myright-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="myright-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myright-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+          <item name="myright-infra" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myright-infra" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myright-infra-cloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -522,12 +524,20 @@
       <workItem from="1514113816712" duration="292000" />
       <workItem from="1514114243821" duration="119000" />
       <workItem from="1514114389572" duration="3518000" />
-      <workItem from="1514297738034" duration="1772000" />
+      <workItem from="1514297738034" duration="1936000" />
     </task>
+    <task id="LOCAL-00001" summary="#home 2">
+      <created>1514299995343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514299995343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34918000" />
+    <option name="totallyTimeSpent" value="35082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -543,7 +553,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50271446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61413044" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53586954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5347826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -570,6 +580,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#home 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="#home 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myright-core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myright-core/rest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -950,6 +957,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myright-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
