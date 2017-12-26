@@ -6,7 +6,72 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="259a4d06-1646-4bc7-ad16-608bc2ef4827" name="Default" comment="" />
+    <list default="true" id="259a4d06-1646-4bc7-ad16-608bc2ef4827" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/lamb/Test1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/lamb/Test1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/classes/com/myright/core/rest/hybrid/servlet/TestServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/classes/com/myright/core/rest/hybrid/servlet/TestServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/gson-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-cloud-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-common-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-mq-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/lib/myright-infra-security-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/index2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/template1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test2_router.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test3_http.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test4_jquery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test5_input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test6_select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/test6_select2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/angular-ui-router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/myangular/uirouter/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/07.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/08.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/09.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/com.springsource.org.apache.commons.httpclient-3.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/commons-codec-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/HttpClient/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/Socket客户端.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/WSDL描述文件.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/WebService描述语言WSDL详解.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/bootstrap/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/jquery-1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/js/vue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/上课笔记.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" afterPath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/myright-core/target/" />
@@ -33,36 +98,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/java/com/myright/core/rest/hybrid/lamb/Test1.java">
+      <file leaf-file-name="06.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Callable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/concurrent/Callable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -82,6 +122,9 @@
       <find>index2.js</find>
       <find>Gson</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -138,10 +181,10 @@
         <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/myangular/test6_select2.html" />
         <option value="$PROJECT_DIR$/doc/readme.txt" />
         <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/上课笔记.txt" />
-        <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" />
         <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/java/com/myright/core/rest/hybrid/servlet/lamb.java" />
         <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/java/com/myright/core/rest/hybrid/lamb/lamb.java" />
         <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/java/com/myright/core/rest/hybrid/lamb/Test1.java" />
+        <option value="$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html" />
       </list>
     </option>
   </component>
@@ -171,7 +214,18 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="myright-infra-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myright-core-rest-hybrid Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
@@ -180,12 +234,13 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -259,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Tomcat Server.tomcat8">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -467,15 +522,15 @@
       <workItem from="1514113816712" duration="292000" />
       <workItem from="1514114243821" duration="119000" />
       <workItem from="1514114389572" duration="3518000" />
-      <workItem from="1514297738034" duration="651000" />
+      <workItem from="1514297738034" duration="1772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33797000" />
+    <option name="totallyTimeSpent" value="34918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -486,13 +541,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50271446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5363735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61413044" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53586954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -500,7 +555,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5092291" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43152174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -530,14 +585,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/mytest/inc1.html" />
     <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/mytest/test5_input.html" />
     <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/myangular/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -774,6 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -829,13 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/07.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -865,10 +906,10 @@
         <state relative-caret-position="462">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#344#345#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#682#683#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -881,10 +922,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="-110">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/vue/06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/src/main/webapp/vue/06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
           <folding />
         </state>
       </provider>

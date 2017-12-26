@@ -21,11 +21,12 @@
 				},
 				methods:{ 
 					addUser(){
-					    if(user.name == ""){
-					        alert("name为空");
+					    if(this.user.name == undefined || this.user.name == ""){
+					        alert("姓名为空");
+					        return;
 						}
 						this.users.push(this.user);
-						this.user={};
+						this.user = {};
 					},
 					deleteUser(){
 						if(this.nowIndex===-1){ //删除所有
