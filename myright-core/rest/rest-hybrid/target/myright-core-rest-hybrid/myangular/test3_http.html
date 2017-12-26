@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>无标题文档</title>
+    <script type="text/javascript" src="angular.min.js"></script>
+</head>
+<body>
+<div ng-app="myApp">
+    <div ng-controller="personController">
+        名: <input type="text" ng-model="person.firstName"><br>
+        姓: <input type="text" ng-model="person.lastName"><br>
+        <br>
+        姓名: {{person.firstName + " " + person.lastName}}
+        <br>
+        {{person.firstName|uppercase}} - {{person.lastName|uppercase}}
+
+		<hr>
+		请在输入框中尝试输入：<input type="text" ng-model="firstName"><br/>
+		你输入的值是：{{firstName}}<br>    
+		你输入的值大写是：{{firstName|uppercase}}<br>
+		{{price|currency}}<br>
+
+		排序<br>
+		<ul>
+			<li ng-repeat="p in names | orderBy:'name'">
+				{{p.name}}  {{p.countory}}
+			</li>
+		</ul>
+		<br>
+
+		filter输入过滤:<input type="text" ng-model="name"><br>
+		<ul>
+			<li ng-repeat="p in names | filter:name |orderBy:'name'">
+				{{p.name+'_'+(p.name|uppercase) +','+p.countory}}
+			</li>
+		</ul>
+
+    </div>
+</div>
+<script>
+    //在angularjs中不建议这样写  控制器污染了全局命名空间
+    var app = angular.module("myApp", []);
+    app.controller("personController", function($scope,$http) {
+    	var url = 'data.php';
+
+
+        $http.get(url).success(function(data){
+            console.log(data);
+        }).error(function(err, status, headers, config){
+        	console.log('get -> error');
+        })
+
+
+
+	    //$http.post 采用postJSON方式发送数据到后台， 
+	    //解决办法：在php中使用 $postData=file_get_contents('php://input', true); 这样就可以获取到前端发来的数据
+	    var postData={text:'这是post的内容'};
+	    var config={params:{id:'5',name:'张三'}}
+	    $http.post(url, postData, config) .success(function(data) {
+	        console.log(data);
+
+	    }).error(function(data){
+	        //错误代码
+	        console.log('post -> error');
+	    });
+
+        //jsonp 
+        url ="http://www.phonegap100.com/appapi.php?a=getPortalList&catid=20&page=1&callback=JSON_CALLBACK";
+        $http.jsonp(url).success(function(data){
+            console.log('jsonp data='+data);
+        }).error(function(){
+            console.log('jsonp -> error');
+        });
+
+
+
+        //
+        $scope.firstName = "abc";
+        $scope.price = "1455444";
+        $scope.names = [
+        			{name:'wuhong',countory:'qianjiang'},
+        			{name:'xiacja',countory:'wuxi'},
+        			{name:'aa',countory:'shanghang'}];
+
+    });
+</script>
+
+
+</body>
+</html>

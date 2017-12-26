@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myright-core-rest-hybrid:war">
+    <output-path>$PROJECT_DIR$/myright-core/rest/rest-hybrid/target</output-path>
+    <root id="archive" name="myright-core-rest-hybrid.war">
+      <element id="artifact" artifact-name="myright-core-rest-hybrid:war exploded" />
+    </root>
+  </artifact>
+</component>

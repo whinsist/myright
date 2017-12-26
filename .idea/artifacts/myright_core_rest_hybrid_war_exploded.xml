@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="myright-core-rest-hybrid:war exploded">
+    <output-path>$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="myright-core-rest-hybrid" />
+          <element id="library" level="project" name="local" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="myright-infra-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="myright-infra-common" />
+          </element>
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:1.7.1" />
+          <element id="archive" name="myright-infra-mq-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="myright-infra-mq" />
+          </element>
+          <element id="archive" name="myright-infra-security-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="myright-infra-security" />
+          </element>
+          <element id="archive" name="myright-infra-cloud-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="myright-infra-cloud" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/myright-core/rest/rest-hybrid/target/myright-core-rest-hybrid/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="myright-core-rest-hybrid/web/Web" />
+    </root>
+  </artifact>
+</component>

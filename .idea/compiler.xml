@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myright-core-persist" />
+        <module name="myright-core-pojo" />
+        <module name="myright-core-rest-hybrid" />
+        <module name="myright-core-service" />
+        <module name="myright-infra-cloud" />
+        <module name="myright-infra-common" />
+        <module name="myright-infra-mq" />
+        <module name="myright-infra-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="myright" target="1.8" />
+      <module name="myright-core" target="1.8" />
+      <module name="myright-core-persist" target="1.8" />
+      <module name="myright-core-pojo" target="1.8" />
+      <module name="myright-core-rest" target="1.8" />
+      <module name="myright-core-rest-hybrid" target="1.8" />
+      <module name="myright-core-service" target="1.5" />
+      <module name="myright-infra" target="1.5" />
+      <module name="myright-infra-cloud" target="1.5" />
+      <module name="myright-infra-common" target="1.5" />
+      <module name="myright-infra-mq" target="1.5" />
+      <module name="myright-infra-security" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

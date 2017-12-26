@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myright.iml" filepath="$PROJECT_DIR$/myright.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/myright-core.iml" filepath="$PROJECT_DIR$/myright-core/myright-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/persist/myright-core-persist.iml" filepath="$PROJECT_DIR$/myright-core/persist/myright-core-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/pojo/myright-core-pojo.iml" filepath="$PROJECT_DIR$/myright-core/pojo/myright-core-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/rest/myright-core-rest.iml" filepath="$PROJECT_DIR$/myright-core/rest/myright-core-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/rest/rest-hybrid/myright-core-rest-hybrid.iml" filepath="$PROJECT_DIR$/myright-core/rest/rest-hybrid/myright-core-rest-hybrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-core/service/myright-core-service.iml" filepath="$PROJECT_DIR$/myright-core/service/myright-core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myright-infra.iml" filepath="$PROJECT_DIR$/myright-infra/myright-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myright-infra-cloud/myright-infra-cloud.iml" filepath="$PROJECT_DIR$/myright-infra/myright-infra-cloud/myright-infra-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myright-infra-common/myright-infra-common.iml" filepath="$PROJECT_DIR$/myright-infra/myright-infra-common/myright-infra-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myright-infra-mq/myright-infra-mq.iml" filepath="$PROJECT_DIR$/myright-infra/myright-infra-mq/myright-infra-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myright-infra-security/myright-infra-security.iml" filepath="$PROJECT_DIR$/myright-infra/myright-infra-security/myright-infra-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myright-infra/myrightinfra-mq.iml" filepath="$PROJECT_DIR$/myright-infra/myrightinfra-mq.iml" />
+    </modules>
+  </component>
+</project>
