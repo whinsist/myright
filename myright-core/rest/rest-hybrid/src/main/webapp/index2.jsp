@@ -9,8 +9,9 @@
 
 <h2>index2.jsp</h2>
 
-json:<%=request.getAttribute("json")%><br/>
+工具类<br/>
 date:<%=request.getAttribute("date")%><br/>
+json:<%=request.getAttribute("json")%><br/>
 
 
 
