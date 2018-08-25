@@ -22,26 +22,15 @@ public class TestServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
         Map<String, Object> map = new HashMap<String,Object>();
-        map.put("name","你好");
-        String json = JsonUtil.toJson(map);
-        System.out.println("json="+json);
+        map.put("name", "你好");
 
-        String date = DateUtil.formatDate();
-        System.out.println("date="+date);
+        request.setAttribute("json", JsonUtil.toJson(map));
+        request.setAttribute("date", DateUtil.formatDate());
+        request.setAttribute("mqInfo", MQUtil.info());
+        request.setAttribute("securityInfo", SecurityUtil.info());
+        request.setAttribute("cloudInfo", CloudUtil.info());
 
-        String mqInfo = MQUtil.info();
-        String securityInfo = SecurityUtil.info();
-        String cloudInfo = CloudUtil.info();
-        System.out.println(mqInfo+"  "+securityInfo+"  "+cloudInfo);
-
-
-
-
-
-        request.setAttribute("json",json);
-        request.setAttribute("date",date);
         request.getRequestDispatcher("/index2.jsp").forward(request, response);
     }
 
