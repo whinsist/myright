@@ -28,7 +28,7 @@ myright-infra-security
 可以参考http://www.cnblogs.com/wangmingshun/p/6383576.html
 
 注意：
-ArtifactId和module name保持一致一定要规范如myright-core-persist，但保存的代码文件夹不一定，可以写成D:\...\persist简单格式
+ArtifactId和module name保持一致一定要规范如myright-core-persist，但保存的代码文件夹和root文件夹不一定（两个文件夹名称要一样），可以写成D:\...\persist简单格式
 
 
 
